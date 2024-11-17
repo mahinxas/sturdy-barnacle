@@ -3,9 +3,17 @@
 # Logbook
 
 
-| Date  | Subject| Hours  | Output |
+| Date | Lab Number | Topic  | Lab Title |
 | ------------- | ------------- | ------------- | ------------- |
-| Week 1: 30.10.2024  | Kick-off lecture  | 2 | Recording |
-| Week 2: 4.11.2024  | Introduction to the PortSwigger environment  | 2| Recording |
-| Week 2: 6.11.2024  | Open space, workshop  | 2 | Recording |
-| Week 3: 11.11.2024  | Starting the project  | 2 | Recording|
+| 18.11.2024  | 1 | SQL injection | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data |
+| 4.11.2024  | 2 | SQL injection | SQL injection vulnerability allowing login bypass |
+| 18.11.2024  | 3 | Cross-site scripting | Reflected XSS into HTML context with nothing encoded |
+| 18.11.2024  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data  | 1 | Solved |
+| 18.11.2024  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data  | 1 | Solved |
+| 18.11.2024  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data  | 1 | Solved |
+| 18.11.2024  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data  | 1 | Solved |
+| 18.11.2024  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data  | 1 | Solved |
+| 18.11.2024  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data  | 1 | Solved |
+| 18.11.2024  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data  | 1 | Solved |
+| 18.11.2024  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data  | 1 | Solved |
+
