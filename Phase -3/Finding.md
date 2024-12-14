@@ -84,7 +84,7 @@
 
 Refer to the logbook for detailed development history: 
 
-Phase- 1 : 
+Phase- 1 : https://github.com/mahinxas/sturdy-barnacle/tree/7258c27e30fa95a27e0ea07c4006c0f71037d0fb/Phase%20-%201
 
-Phase -2 :
+Phase -2 : https://github.com/mahinxas/sturdy-barnacle/tree/7258c27e30fa95a27e0ea07c4006c0f71037d0fb/Phase-2
 
