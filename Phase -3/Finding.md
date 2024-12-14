@@ -80,9 +80,7 @@
   - Lack of session persistence and secure cookie flags contradict secure session handling requirements.
   - Missing RBAC contradicts the requirement for resource-specific access restrictions.
 
-## Link to Logbook
-
-Refer to the logbook for detailed development history: 
+## Link to Gitrepo:
 
 Phase- 1 : https://github.com/mahinxas/sturdy-barnacle/tree/7258c27e30fa95a27e0ea07c4006c0f71037d0fb/Phase%20-%201
 
