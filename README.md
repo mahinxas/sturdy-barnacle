@@ -70,3 +70,9 @@ Cybersecurity and data privacy
 | 30/10/2024  | 11 | Authentication | 2FA simple bypass |
 | 30/10/2024  | 12 |  Authentication | Password reset broken logic |
 
+
+
+# Additional Screenshot for phase - 4
+
+![Login](https://github.com/user-attachments/assets/6acf3a6e-b0e6-4cc5-a1b5-ec632ad188b8)
+![Register](https://github.com/user-attachments/assets/7510fb8e-0c19-4d48-adfb-27a131c815ea)
