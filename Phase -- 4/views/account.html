@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Account</title>
+    <link rel="stylesheet" href="/static/styles.css"> <!-- Link to external CSS -->
+    <style>
+        /* Inline styles for quick setup (can be moved to styles.css) */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        #account-info p {
+            font-size: 1rem;
+            color: #555;
+            line-height: 1.5;
+        }
+        .btn {
+            display: block;
+            text-align: center;
+            margin: 20px auto 0;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>My Account</h1>
+        <div id="account-info">
+            <p><strong>Email:</strong> <span id="username">Loading...</span></p>
+            <p><strong>Role:</strong> <span id="role">Loading...</span></p>
+            <p><strong>Terms Accepted:</strong> <span id="terms_accepted">Loading...</span></p>
+            <p><strong>Account Created At:</strong> <span id="created_at">Loading...</span></p>
+        </div>
+        <a href="/" class="btn">Back to Home</a>
+    </div>
+    <script src="/static/account.js"></script>
+</body>
+
+</html>
