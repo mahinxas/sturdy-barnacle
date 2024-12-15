@@ -6,7 +6,7 @@ Cybersecurity and data privacy
 ## Table: Indepent work
 | Date | Description | Used time |
 | :---         |     :---:      |          ---: |
-| 11/4/2024 | The Repo has been created after watch the tutorial | 50 min |
+| 11/07/2024 | The Repo has been created after watch the tutorial | 50 min |
 | 18.11.2024 | Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | 30 min |
 | 24.11.2024 | Lab: SQL injection vulnerability allowing login bypass | 50 min |
 | 28/11/2024 | Lab: Stored XSS into HTML context with nothing encoded | 50 min  |
@@ -26,10 +26,10 @@ Cybersecurity and data privacy
 | 30/10/2024 | Lab: 2FA simple bypass | 50 min  |
 | 30/10/2024 | Lab: Password reset broken logic | 50 min  |
 | 11/22/2024 | The Booking system project → Phase 1 | 8 hour |
-| 11/28/2024 | The Booking system project → Phase 2 | 8 hour |
-| 12/7/2024 | The Booking system project → Phase 3 | 8 hour |
-| 12/12/2024 | The Booking system project → Phase 4 | 5 hour |
-| 12/13/2024 | The Final phase | 5 hour |
+| 15/28/2024 | The Booking system project → Phase 2 | 8 hour |
+| 15/7/2024 | The Booking system project → Phase 3 | 8 hour |
+| 15/12/2024 | The Booking system project → Phase 4 | 5 hour |
+| 15/12/2024 | The Final phase | 5 hour |
 
 
 
